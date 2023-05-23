@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=MathMagic
+Comment=Application de génération de figure mathématique tel que les fonctions
+Exec=/home/amk/IFNTI/DAP/DAP_L1/travail/v2/mathMagique/vue/mathMagic/dist/App
+Icon=/home/amk/IFNTI/DAP/DAP_L1/travail/v2/mathMagique/vue/mathMagic/icon/logo.png
+Terminal=false
+Type=Application
+Categories=ApplicationCategory
